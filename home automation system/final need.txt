@@ -1,0 +1,19 @@
+Main components:
+
+link site : https://store.roboticsbd.com
+ 
+1: arduino uno * 860 taka
+2: bluetooth module hc 05 * 347*2 taka
+3: relay 2 channel * 157 taka
+4: surbo motor
+5: ultrasonic sensor * 92 taka
+6: jummper wire * 95 taka
+
+
+Design components:
+7: 2 ta light with holder
+8: hard board
+9: kostep 
+10: wire
+
+

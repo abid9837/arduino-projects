@@ -1,0 +1,25 @@
+components = arduino
+
+
+1: ultrasonic sensor 
+ * ultrasonic vcc = 5v arduino,
+ * trig = 6 pin arduino
+ * echo = 7 pin arduino
+ * gnd = gnd arduino
+
+2: survo motor: 
+ * middle = 5v ,2nd wiring system 
+ * midle right = gnd arduino
+ * middle left = 12 arduino
+
+3: relay :
+ * gnd = gnd 2nd wire 
+ * in1 = 3 arduino
+ * in2 = 4 arduino
+ * vcc = 5v 2nd wiring system
+
+4: bluetooth module hc 05:
+ * vcc = 5v 2nd wiring system
+ * gnd = gnd 2nd wiring system
+ * txd = rx arduino
+ * rxd =  tx arduino
